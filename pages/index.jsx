@@ -2,15 +2,14 @@ import React, { useState, useEffect } from 'react';
 import Editor from '@react-page/editor';
 import axios from 'axios';
 
-import type { NextPage } from 'next'
-import type { Options, Value } from '@react-page/editor';
+
 
 import { cellPlugins } from '../src/plugins/cellPlugins';
 import Layout from '../src/components/Layout/Layout';
 import AdminBar from '../src/components/Layout/AdminBar';
 import Templates from '../src/components/Layout/Templates'
 
-const LANGUAGES: Options['languages'] = [
+const LANGUAGES = [
   {
     lang: 'en',
     label: 'English',
@@ -21,9 +20,9 @@ const LANGUAGES: Options['languages'] = [
   },
 ];
 
-export default function Home({ template }: { template: Value }) {
-  const [value, setValue] = useState<Value>(template);
-  const [authorized] = useState<boolean>(true);
+export default function Home({ template }) {
+  const [value, setValue] = useState(template);
+  const [authorized] = useState(true);
 
   const saveTemplate = async () => {
     await axios.put('/api/template', value);
@@ -33,7 +32,7 @@ export default function Home({ template }: { template: Value }) {
     setValue(template)
   };
 
-  const resetTemplate = () => setValue({});
+  const resetTemplate = () => setValue(null);
 
   // autosave
   // useEffect(()=>{
