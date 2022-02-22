@@ -1,0 +1,1160 @@
+{
+  "version": 1,
+  "rows": [
+    {
+      "id": "civiid",
+      "cells": [
+        {
+          "id": "9er561",
+          "size": 12,
+          "plugin": {
+            "id": "ory/editor/core/layout/background",
+            "version": 1
+          },
+          "dataI18n": {
+            "en": {
+              "modeFlag": 1,
+              "backgroundColor": {
+                "r": 162,
+                "g": 156,
+                "b": 224,
+                "a": 1
+              },
+              "hasPadding": false,
+              "background": "blob:http://localhost:3000/4bc24f1c-5b54-4730-b999-5c2abef529b5",
+              "isParallax": false,
+              "darken": 0.1
+            }
+          },
+          "rows": [
+            {
+              "id": "uyflml",
+              "cells": [
+                {
+                  "id": "f8rhtr",
+                  "size": 4,
+                  "plugin": {
+                    "id": "ory/editor/core/content/spacer",
+                    "version": 1
+                  },
+                  "dataI18n": {
+                    "en": {
+                      "height": 24
+                    }
+                  },
+                  "rows": [],
+                  "inline": null
+                },
+                {
+                  "id": "47m15j",
+                  "size": 4,
+                  "plugin": {
+                    "id": "container-plugin",
+                    "version": 1
+                  },
+                  "dataI18n": {
+                    "en": {
+                      "style": {
+                        "padding": 50,
+                        "margin": "0px 0px 10px 0px",
+                        "borderRadius": 0
+                      }
+                    }
+                  },
+                  "rows": [
+                    {
+                      "id": "6wwk38",
+                      "cells": [
+                        {
+                          "id": "aw4v10",
+                          "size": 12,
+                          "plugin": {
+                            "id": "ory/editor/core/content/image",
+                            "version": 1
+                          },
+                          "dataI18n": {
+                            "en": {
+                              "src": "blob:http://localhost:3000/238f55c6-d7f2-4927-a6f5-58a552268cde"
+                            }
+                          },
+                          "rows": [],
+                          "inline": null
+                        }
+                      ]
+                    }
+                  ],
+                  "inline": null
+                },
+                {
+                  "id": "y3h5tk",
+                  "size": 4,
+                  "plugin": {
+                    "id": "ory/editor/core/content/spacer",
+                    "version": 1
+                  },
+                  "dataI18n": {
+                    "en": {
+                      "height": 24
+                    }
+                  },
+                  "rows": [],
+                  "inline": null
+                }
+              ]
+            },
+            {
+              "id": "zewcfx",
+              "cells": [
+                {
+                  "id": "f7nwqi",
+                  "size": 12,
+                  "plugin": {
+                    "id": "simple-image",
+                    "version": 1
+                  },
+                  "dataI18n": {
+                    "en": {
+                      "imgStyle": {
+                        "width": "200px",
+                        "height": "auto"
+                      },
+                      "boxStyle": {
+                        "width": "100%",
+                        "height": "100%",
+                        "border": "",
+                        "borderRadius": 0,
+                        "margin": "0px 0px 0px 0px",
+                        "padding": 0,
+                        "display": "flex",
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                        "alignItems": "center"
+                      }
+                    }
+                  },
+                  "rows": [
+                    {
+                      "id": "4gnb90",
+                      "cells": [
+                        {
+                          "id": "y1zfvr",
+                          "size": 12,
+                          "plugin": {
+                            "id": "container-plugin",
+                            "version": 1
+                          },
+                          "dataI18n": {
+                            "en": {
+                              "style": {
+                                "height": "100%",
+                                "width": "100%"
+                              }
+                            }
+                          },
+                          "rows": [
+                            {
+                              "id": "ll27e3",
+                              "cells": [
+                                {
+                                  "id": "evpalg",
+                                  "size": 2,
+                                  "plugin": {
+                                    "id": "ory/editor/core/content/spacer",
+                                    "version": 1
+                                  },
+                                  "dataI18n": {
+                                    "en": {
+                                      "height": 24
+                                    }
+                                  },
+                                  "rows": [],
+                                  "inline": null
+                                },
+                                {
+                                  "id": "r0k1df",
+                                  "size": 2,
+                                  "plugin": {
+                                    "id": "ory/editor/core/layout/background",
+                                    "version": 1
+                                  },
+                                  "dataI18n": {
+                                    "en": {
+                                      "isParallax": false,
+                                      "hasPadding": true,
+                                      "background": "blob:http://localhost:3000/e11dca4a-f2c7-4730-8494-8ed1a8b68752"
+                                    }
+                                  },
+                                  "rows": [
+                                    {
+                                      "id": "7mf1s2",
+                                      "cells": [
+                                        {
+                                          "id": "nrnbgh",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "ory/editor/core/content/spacer",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "height": 98
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "lyrmae",
+                                      "cells": [
+                                        {
+                                          "id": "0i4htq",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "ory/editor/core/content/slate",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "slate": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "text": "100% BONUS + ",
+                                                      "SetColor": {
+                                                        "color": "rgba(0, 0, 0, 1)"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "type": "HEADINGS/HEADING-TWO",
+                                                  "data": {
+                                                    "align": "center"
+                                                  }
+                                                },
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "text": "100 FREE SPINS ",
+                                                      "SetColor": {
+                                                        "color": "rgba(0, 0, 0, 1)"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "type": "HEADINGS/HEADING-TWO",
+                                                  "data": {
+                                                    "align": "center"
+                                                  }
+                                                },
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "text": "on Dead or Alive",
+                                                      "SetColor": {
+                                                        "color": "rgba(0, 0, 0, 1)"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "type": "HEADINGS/HEADING-FOUR",
+                                                  "data": {
+                                                    "align": "center"
+                                                  }
+                                                }
+                                              ]
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "acrxhr",
+                                      "cells": [
+                                        {
+                                          "id": "hb5bxr",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "ory/editor/core/content/spacer",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "height": 98
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "g0oibs",
+                                      "cells": [
+                                        {
+                                          "id": "p6mz6e",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "button-plugin",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "text": "CLAIM",
+                                              "style": {
+                                                "backgroundColor": "rgba(152, 2, 66, 1)",
+                                                "textColor": "rgba(255, 226, 140, 1)",
+                                                "border": "none",
+                                                "margin": "0px 50px",
+                                                "padding": 10,
+                                                "borderRadius": 30,
+                                                "fontSize": 20,
+                                                "fontWeight": 400
+                                              }
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "pojwit",
+                                      "cells": [
+                                        {
+                                          "id": "rzyvzu",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "ory/editor/core/content/spacer",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "height": 78
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    }
+                                  ],
+                                  "inline": null
+                                },
+                                {
+                                  "id": "xd9x8w",
+                                  "size": 1,
+                                  "plugin": {
+                                    "id": "ory/editor/core/content/spacer",
+                                    "version": 1
+                                  },
+                                  "dataI18n": {
+                                    "en": {
+                                      "height": 24
+                                    }
+                                  },
+                                  "rows": [],
+                                  "inline": null
+                                },
+                                {
+                                  "id": "0fm1kl",
+                                  "size": 2,
+                                  "plugin": {
+                                    "id": "ory/editor/core/layout/background",
+                                    "version": 1
+                                  },
+                                  "dataI18n": {
+                                    "en": {
+                                      "isParallax": false,
+                                      "hasPadding": true,
+                                      "background": "blob:http://localhost:3000/e11dca4a-f2c7-4730-8494-8ed1a8b68752"
+                                    }
+                                  },
+                                  "rows": [
+                                    {
+                                      "id": "qbg6k6",
+                                      "cells": [
+                                        {
+                                          "id": "72v0pn",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "ory/editor/core/content/spacer",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "height": 98
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "l7wafn",
+                                      "cells": [
+                                        {
+                                          "id": "n1556r",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "ory/editor/core/content/slate",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "slate": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "text": "100% BONUS + ",
+                                                      "SetColor": {
+                                                        "color": "rgba(0, 0, 0, 1)"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "type": "HEADINGS/HEADING-TWO",
+                                                  "data": {
+                                                    "align": "center"
+                                                  }
+                                                },
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "text": "100 FREE SPINS ",
+                                                      "SetColor": {
+                                                        "color": "rgba(0, 0, 0, 1)"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "type": "HEADINGS/HEADING-TWO",
+                                                  "data": {
+                                                    "align": "center"
+                                                  }
+                                                },
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "text": "on Dead or Alive",
+                                                      "SetColor": {
+                                                        "color": "rgba(0, 0, 0, 1)"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "type": "HEADINGS/HEADING-FOUR",
+                                                  "data": {
+                                                    "align": "center"
+                                                  }
+                                                }
+                                              ]
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "io2fpw",
+                                      "cells": [
+                                        {
+                                          "id": "jc0sbx",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "ory/editor/core/content/spacer",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "height": 98
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "zm9zj2",
+                                      "cells": [
+                                        {
+                                          "id": "frxv6f",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "button-plugin",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "text": "CLAIM",
+                                              "style": {
+                                                "backgroundColor": "rgba(152, 2, 66, 1)",
+                                                "textColor": "rgba(255, 226, 140, 1)",
+                                                "border": "none",
+                                                "margin": "0px 50px",
+                                                "padding": 10,
+                                                "borderRadius": 30,
+                                                "fontSize": 20,
+                                                "fontWeight": 400
+                                              }
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "6y32ax",
+                                      "cells": [
+                                        {
+                                          "id": "me9eb3",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "ory/editor/core/content/spacer",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "height": 78
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    }
+                                  ],
+                                  "inline": null
+                                },
+                                {
+                                  "id": "16k41u",
+                                  "size": 1,
+                                  "plugin": {
+                                    "id": "ory/editor/core/content/spacer",
+                                    "version": 1
+                                  },
+                                  "dataI18n": {
+                                    "en": {
+                                      "height": 24
+                                    }
+                                  },
+                                  "rows": [],
+                                  "inline": null
+                                },
+                                {
+                                  "id": "7ts5m3",
+                                  "size": 2,
+                                  "plugin": {
+                                    "id": "ory/editor/core/layout/background",
+                                    "version": 1
+                                  },
+                                  "dataI18n": {
+                                    "en": {
+                                      "isParallax": false,
+                                      "hasPadding": true,
+                                      "background": "blob:http://localhost:3000/e11dca4a-f2c7-4730-8494-8ed1a8b68752"
+                                    }
+                                  },
+                                  "rows": [
+                                    {
+                                      "id": "j47uym",
+                                      "cells": [
+                                        {
+                                          "id": "irq1vj",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "ory/editor/core/content/spacer",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "height": 98
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "jw9mwg",
+                                      "cells": [
+                                        {
+                                          "id": "hlks7j",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "ory/editor/core/content/slate",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "slate": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "text": "100% BONUS + ",
+                                                      "SetColor": {
+                                                        "color": "rgba(0, 0, 0, 1)"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "type": "HEADINGS/HEADING-TWO",
+                                                  "data": {
+                                                    "align": "center"
+                                                  }
+                                                },
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "text": "100 FREE SPINS ",
+                                                      "SetColor": {
+                                                        "color": "rgba(0, 0, 0, 1)"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "type": "HEADINGS/HEADING-TWO",
+                                                  "data": {
+                                                    "align": "center"
+                                                  }
+                                                },
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "text": "on Dead or Alive",
+                                                      "SetColor": {
+                                                        "color": "rgba(0, 0, 0, 1)"
+                                                      }
+                                                    }
+                                                  ],
+                                                  "type": "HEADINGS/HEADING-FOUR",
+                                                  "data": {
+                                                    "align": "center"
+                                                  }
+                                                }
+                                              ]
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "53n6sx",
+                                      "cells": [
+                                        {
+                                          "id": "51zhb4",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "ory/editor/core/content/spacer",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "height": 98
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "1ywjne",
+                                      "cells": [
+                                        {
+                                          "id": "xkax5w",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "button-plugin",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "text": "CLAIM",
+                                              "style": {
+                                                "backgroundColor": "rgba(152, 2, 66, 1)",
+                                                "textColor": "rgba(255, 226, 140, 1)",
+                                                "border": "none",
+                                                "margin": "0px 50px",
+                                                "padding": 10,
+                                                "borderRadius": 30,
+                                                "fontSize": 20,
+                                                "fontWeight": 400
+                                              }
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "auoq7o",
+                                      "cells": [
+                                        {
+                                          "id": "02pea5",
+                                          "size": 12,
+                                          "plugin": {
+                                            "id": "ory/editor/core/content/spacer",
+                                            "version": 1
+                                          },
+                                          "dataI18n": {
+                                            "en": {
+                                              "height": 78
+                                            }
+                                          },
+                                          "rows": [],
+                                          "inline": null
+                                        }
+                                      ]
+                                    }
+                                  ],
+                                  "inline": null
+                                },
+                                {
+                                  "id": "i2ubni",
+                                  "size": 2,
+                                  "plugin": {
+                                    "id": "ory/editor/core/content/spacer",
+                                    "version": 1
+                                  },
+                                  "dataI18n": {
+                                    "en": {
+                                      "height": 24
+                                    }
+                                  },
+                                  "rows": [],
+                                  "inline": null
+                                }
+                              ]
+                            }
+                          ],
+                          "inline": null
+                        }
+                      ]
+                    }
+                  ],
+                  "inline": null
+                }
+              ]
+            },
+            {
+              "id": "8zhdem",
+              "cells": [
+                {
+                  "id": "2q2h9i",
+                  "size": 12,
+                  "plugin": {
+                    "id": "ory/editor/core/content/spacer",
+                    "version": 1
+                  },
+                  "dataI18n": {
+                    "en": {
+                      "height": 109
+                    }
+                  },
+                  "rows": [],
+                  "inline": null
+                }
+              ]
+            }
+          ],
+          "inline": null
+        }
+      ]
+    },
+    {
+      "id": "0v8zaq",
+      "cells": [
+        {
+          "id": "aouwek",
+          "size": 12,
+          "rows": [
+            {
+              "id": "rxuqeq",
+              "cells": [
+                {
+                  "id": "wv63hc",
+                  "size": 12,
+                  "plugin": {
+                    "id": "ory/editor/core/layout/background",
+                    "version": 1
+                  },
+                  "dataI18n": {
+                    "en": {
+                      "modeFlag": 2,
+                      "backgroundColor": {
+                        "r": 20,
+                        "g": 2,
+                        "b": 34,
+                        "a": 1
+                      }
+                    }
+                  },
+                  "rows": [
+                    {
+                      "id": "ic0efq",
+                      "cells": [
+                        {
+                          "id": "92xvzw",
+                          "size": 4,
+                          "plugin": {
+                            "id": "ory/editor/core/content/spacer",
+                            "version": 1
+                          },
+                          "dataI18n": {
+                            "en": {
+                              "height": 24
+                            }
+                          },
+                          "rows": [],
+                          "inline": null
+                        },
+                        {
+                          "id": "ol9j53",
+                          "size": 4,
+                          "plugin": {
+                            "id": "ory/editor/core/content/slate",
+                            "version": 1
+                          },
+                          "dataI18n": {
+                            "en": {
+                              "slate": [
+                                {
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "children": [
+                                    {
+                                      "text": "May",
+                                      "SetColor": {
+                                        "color": "rgba(168, 113, 222, 1)"
+                                      }
+                                    },
+                                    {
+                                      "text": " "
+                                    },
+                                    {
+                                      "text": "your luck",
+                                      "SetColor": {
+                                        "color": "rgba(162, 224, 255, 1)"
+                                      }
+                                    },
+                                    {
+                                      "text": " "
+                                    },
+                                    {
+                                      "text": "burn bright like the",
+                                      "SetColor": {
+                                        "color": "rgba(168, 113, 222, 1)"
+                                      }
+                                    },
+                                    {
+                                      "text": " "
+                                    },
+                                    {
+                                      "text": "Slotolympics",
+                                      "SetColor": {
+                                        "color": "rgba(162, 224, 255, 1)"
+                                      }
+                                    },
+                                    {
+                                      "text": " "
+                                    },
+                                    {
+                                      "text": "torch!",
+                                      "SetColor": {
+                                        "color": "rgba(168, 113, 222, 1)"
+                                      }
+                                    }
+                                  ],
+                                  "data": {
+                                    "align": "center"
+                                  }
+                                },
+                                {
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "data": {
+                                    "align": "center"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "\n\n"
+                                    },
+                                    {
+                                      "text": "The Slotolympics is an international slot festival, held every year. The ultimate goal is to have fun celebrating the event through slots and to cash in big time yet don’t give up on your dreams.",
+                                      "SetColor": {
+                                        "color": "rgba(201, 170, 232, 1)"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "data": {
+                                    "align": "center"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": ""
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "data": {
+                                    "align": "center"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "The Slotolympics is an international slot festival, held every year. The ultimate goal is to have fun celebrating the event through slots and to cash.",
+                                      "SetColor": {
+                                        "color": "rgba(168, 113, 222, 1)"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "data": {
+                                    "align": "center"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": ""
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "data": {
+                                    "align": "center"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": " Let the games begin!",
+                                      "SetColor": {
+                                        "color": "rgba(188, 188, 232, 1)"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          },
+                          "rows": [],
+                          "inline": null
+                        },
+                        {
+                          "id": "g6d829",
+                          "size": 4,
+                          "plugin": {
+                            "id": "ory/editor/core/content/spacer",
+                            "version": 1
+                          },
+                          "dataI18n": {
+                            "en": {
+                              "height": 24
+                            }
+                          },
+                          "rows": [],
+                          "inline": null
+                        }
+                      ]
+                    }
+                  ],
+                  "inline": null
+                }
+              ]
+            },
+            {
+              "id": "gdzdlg",
+              "cells": [
+                {
+                  "id": "yi2myh",
+                  "size": 12,
+                  "plugin": {
+                    "id": "ory/editor/core/layout/background",
+                    "version": 1
+                  },
+                  "dataI18n": {
+                    "en": {
+                      "modeFlag": 1,
+                      "backgroundColor": {
+                        "r": 140,
+                        "g": 129,
+                        "b": 131,
+                        "a": 1
+                      },
+                      "background": "blob:http://localhost:3000/a2cfb7dc-c14a-4c74-aaf8-32ecd0087369",
+                      "isParallax": false,
+                      "hasPadding": true
+                    }
+                  },
+                  "rows": [
+                    {
+                      "id": "uzp5dh",
+                      "cells": [
+                        {
+                          "id": "raf9ac",
+                          "size": 5,
+                          "plugin": {
+                            "id": "ory/editor/core/content/spacer",
+                            "version": 1
+                          },
+                          "dataI18n": {
+                            "en": {
+                              "height": 24
+                            }
+                          },
+                          "rows": [],
+                          "inline": null
+                        },
+                        {
+                          "id": "jt483q",
+                          "size": 2,
+                          "plugin": {
+                            "id": "button-with-modal-plugin",
+                            "version": 1
+                          },
+                          "dataI18n": {
+                            "en": {
+                              "text": "Terms & Conditions >",
+                              "style": {
+                                "fontSize": 16,
+                                "fontWeight": 400,
+                                "backgroundColor": "rgba(211, 211, 211, 0)",
+                                "textColor": "rgba(14, 185, 241, 1)",
+                                "border": "none",
+                                "margin": "0 40px",
+                                "padding": 0,
+                                "borderRadius": 0,
+                                "position": "static"
+                              }
+                            }
+                          },
+                          "rows": [
+                            {
+                              "id": "7domsk",
+                              "cells": [
+                                {
+                                  "id": "f3zfng",
+                                  "size": 12,
+                                  "plugin": {
+                                    "id": "container-plugin",
+                                    "version": 1
+                                  },
+                                  "dataI18n": {
+                                    "en": {
+                                      "style": {}
+                                    }
+                                  },
+                                  "rows": [],
+                                  "inline": null
+                                }
+                              ]
+                            }
+                          ],
+                          "inline": null
+                        },
+                        {
+                          "id": "4l1xq1",
+                          "size": 5,
+                          "plugin": {
+                            "id": "ory/editor/core/content/spacer",
+                            "version": 1
+                          },
+                          "dataI18n": {
+                            "en": {
+                              "height": 129
+                            }
+                          },
+                          "rows": [],
+                          "inline": null
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ynr6sx",
+                      "cells": [
+                        {
+                          "id": "al8bbb",
+                          "size": 4,
+                          "plugin": {
+                            "id": "ory/editor/core/content/spacer",
+                            "version": 1
+                          },
+                          "dataI18n": {
+                            "en": {
+                              "height": 24
+                            }
+                          },
+                          "rows": [],
+                          "inline": null
+                        },
+                        {
+                          "id": "dl2kdf",
+                          "size": 4,
+                          "plugin": {
+                            "id": "container-plugin",
+                            "version": 1
+                          },
+                          "dataI18n": {
+                            "en": {
+                              "style": {}
+                            }
+                          },
+                          "rows": [
+                            {
+                              "id": "1dpr0f",
+                              "cells": [
+                                {
+                                  "id": "15det7",
+                                  "size": 12,
+                                  "plugin": {
+                                    "id": "ory/editor/core/content/image",
+                                    "version": 1
+                                  },
+                                  "dataI18n": {
+                                    "en": {
+                                      "src": "blob:http://localhost:3000/2d7631c6-9cbb-4d21-9770-f828ebd52661"
+                                    }
+                                  },
+                                  "rows": [],
+                                  "inline": null
+                                }
+                              ]
+                            }
+                          ],
+                          "inline": null
+                        },
+                        {
+                          "id": "plf6lf",
+                          "size": 4,
+                          "plugin": {
+                            "id": "ory/editor/core/content/spacer",
+                            "version": 1
+                          },
+                          "dataI18n": {
+                            "en": {
+                              "height": 24
+                            }
+                          },
+                          "rows": [],
+                          "inline": null
+                        }
+                      ]
+                    }
+                  ],
+                  "inline": null
+                }
+              ]
+            }
+          ],
+          "inline": null,
+          "dataI18n": null
+        }
+      ]
+    }
+  ]
+}

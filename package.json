@@ -1,0 +1,37 @@
+{
+  "name": "template-page-editor",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/styles": "^4.11.4",
+    "@react-page/editor": "^4.5.3",
+    "@react-page/plugins-background": "^4.5.1",
+    "@react-page/plugins-divider": "^4.5.1",
+    "@react-page/plugins-image": "^4.5.1",
+    "@react-page/plugins-slate": "^4.5.1",
+    "@react-page/plugins-spacer": "^4.5.1",
+    "@types/styled-components": "^5.1.22",
+    "axios": "^0.25.0",
+    "babel-preset-next": "^1.4.0",
+    "next": "12.0.10",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.16",
+    "@types/react": "17.0.39",
+    "eslint": "8.8.0",
+    "eslint-config-next": "12.0.10",
+    "typescript": "4.5.5"
+  }
+}
